@@ -20,3 +20,5 @@ Pour mettre un élement en *italique*
 |---|---|
 |Michel|Durand|
 |Georges|Dupont|
+
+Je m'appelle Michel et je suis à Vernon.
